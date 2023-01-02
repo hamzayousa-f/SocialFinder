@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/socialfinder/BuildConfig.java
+ com.example.socialfinder.BuildConfig

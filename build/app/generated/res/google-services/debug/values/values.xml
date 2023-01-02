@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">794982450228-mj54nbskv1vualtp1dtasa63ca0eod61.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">794982450228</string>
+    <string name="google_api_key" translatable="false">AIzaSyD8qM3-21Df0VfOFHh5PyQpZpsV7mUxLXo</string>
+    <string name="google_app_id" translatable="false">1:794982450228:android:291e6687d183fe3e863661</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD8qM3-21Df0VfOFHh5PyQpZpsV7mUxLXo</string>
+    <string name="google_storage_bucket" translatable="false">socialfinder-1e2b9.appspot.com</string>
+    <string name="project_id" translatable="false">socialfinder-1e2b9</string>
+</resources>
